@@ -1,0 +1,4 @@
+interface:
+  display_name: "BookFlow AI 小说生产"
+  short_description: "把 AI 小说脑洞推进到正文、发布包和复盘"
+  default_prompt: "Use $bookflow-skill to turn this story idea into a scored short-fiction project with a README, character setup, outline, chapter plan, anti-AI editing checklist, publishing package, and review plan."
