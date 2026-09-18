@@ -34,4 +34,6 @@ Use $bookflow-skill to turn this story idea into a scored short-fiction project.
 
 ## License
 
-MIT，见 [LICENSE](LICENSE)。
+This project is licensed under the MIT License. Copyright (c) 2026 LanyXiaosheng.
+
+See the full license text in [LICENSE](LICENSE).
